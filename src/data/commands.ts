@@ -19,9 +19,9 @@ export interface CommandItem {
   sectionId?: string;
 }
 
-export const CONTACT_EMAIL = "karthik@example.com";
-export const LINKEDIN_URL = "https://linkedin.com/in/karthiksanthosh";
-export const GITHUB_URL = "https://github.com/karthiksanthosh";
+export const CONTACT_EMAIL = "karthiksanthosh360@gmail.com";
+export const LINKEDIN_URL = "https://www.linkedin.com/in/karthiiksanthosh";
+export const GITHUB_URL = "https://github.com/kxrthiikk";
 export const RESUME_URL = "/resume.pdf";
 export const CALENDLY_URL = "https://calendly.com/karthiksanthosh";
 
